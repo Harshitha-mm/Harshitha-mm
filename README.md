@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced ML,Python**
 
-- 💬 Ask me about **C programming,Stock Market and Gaming**
+- 💬 Ask me about **C programming,SQL,HTML-CSS,Stock Market and Gaming**
 
 - 📫 How to reach me **harshithamm11@gmail.com**
 
